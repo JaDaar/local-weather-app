@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
 
+[![Waffle.io - Issues in progress](https://badge.waffle.io/JaDaar/local-weather-app.png?label=in%20progress&title=In%20Progress)](http://waffle.io/JaDaar/local-weather-app)
+readme.rst
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
