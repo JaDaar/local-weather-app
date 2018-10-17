@@ -14,7 +14,7 @@ export class CurrentWeatherComponent implements OnInit {
     this.current = {
       city: '',
       country: '',
-      date: 123,
+      date: 0,
       image: 'assets/img/Sunny-icon.png',
       temperature: 0,
       description: ''

@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
   template: `
-    <div color="primary">
+    <div>
       <span>LocalCast Weather</span>
     </div>
     <div fxLayoutAlign="center">
