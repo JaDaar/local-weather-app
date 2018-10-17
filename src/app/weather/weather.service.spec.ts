@@ -5,7 +5,7 @@ import { WeatherService } from './weather.service';
 
 describe('WeatherService', () => {
   beforeEach(() => TestBed.configureTestingModule({
-    imports: [ HttpClientTestingModule ],
+    imports: [ HttpClientTestingModule ]
   }));
 
   it('should be created', () => {

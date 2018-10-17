@@ -12,7 +12,7 @@ describe('CurrentWeatherComponent', () => {
   beforeEach(async(() => {
     TestBed.configureTestingModule({
       declarations: [ CurrentWeatherComponent ],
-      providers: [WeatherServiceFake]
+      providers: [{ provide: WeatherService, useClass: WeatherServiceFake}]
     })
     .compileComponents();
   }));
